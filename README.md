@@ -1,2 +1,1 @@
-# Employee_Portal
-Website Portal Applying CRUDS on Employee Entity
+Using WebApis In Serve Side And Angular In Client side to establish Webportal For Employees
