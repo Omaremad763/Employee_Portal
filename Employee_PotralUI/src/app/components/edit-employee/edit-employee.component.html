@@ -1,0 +1,80 @@
+<div class="Edit">
+  <div>
+    <h2 class="header">Edit Employees list</h2>
+  </div>
+  <div class="col-6">
+    <form #myform="ngForm" (ngSubmit)="UpdateEmployee()">
+      <div class="id mb-3">
+        <label for="Id" class="form-label">Id</label>
+        <input
+          type="text"
+          class="form-control"
+          id="Id"
+          readonly
+          name="Id"
+          [(ngModel)]="EmployeeDetails.id"
+        />
+      </div>
+      <div class="Name mb-3">
+        <label for="Name" class="form-label">Name</label>
+        <input
+          type="text"
+          class="form-control"
+          id="name"
+          name="name"
+          [(ngModel)]="EmployeeDetails.name"
+        />
+      </div>
+      <div class="Email mb-3">
+        <label for="Email" class="form-label">Email</label>
+        <input
+          type="text"
+          class="form-control"
+          id="email"
+          name="email"
+          [(ngModel)]="EmployeeDetails.email"
+        />
+      </div>
+      <div class="Phone mb-3">
+        <label for="Phone" class="form-label">Phone</label>
+        <input
+          type="number"
+          class="form-control"
+          id="phone"
+          name="phone"
+          [(ngModel)]="EmployeeDetails.phone"
+        />
+      </div>
+      <div class="salary mb-3">
+        <label for="salary" class="form-label">salary</label>
+        <input
+          type="number"
+          class="form-control"
+          id="salary"
+          name="salary"
+          [(ngModel)]="EmployeeDetails.salary"
+        />
+      </div>
+      <div class="department mb-3">
+        <label for="department" class="form-label">department</label>
+        <input
+          type="text"
+          class="form-control"
+          id="department"
+          name="department"
+          [(ngModel)]="EmployeeDetails.department"
+        />
+      </div>
+    </form>
+  </div>
+  <div class="buttons">
+    <button type="submit" class="btn btn-primary">Save</button>
+    <button
+      type="button"
+      class="btn btn-danger"
+      (click)="deleteEmployee(EmployeeDetails.id)"
+    >
+      Delete
+    </button>
+  </div>
+</div>

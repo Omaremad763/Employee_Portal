@@ -1,0 +1,15 @@
+.Edit {
+  padding: 20px;
+  margin-top: 5px;
+}
+
+.Edit buttons btn btn-primary {
+  margin-left: 40px;
+}
+.buttons {
+  display: flex; /* Makes buttons sit next to each other */
+}
+
+.buttons button {
+  margin: 0 10px; /* Space between buttons */
+}

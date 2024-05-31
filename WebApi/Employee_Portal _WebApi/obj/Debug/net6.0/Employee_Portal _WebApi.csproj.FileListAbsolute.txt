@@ -1,0 +1,88 @@
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\appsettings.Development.json
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\appsettings.json
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Employee_Portal _WebApi.exe
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Employee_Portal _WebApi.deps.json
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Employee_Portal _WebApi.runtimeconfig.json
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Employee_Portal _WebApi.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Employee_Portal _WebApi.pdb
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Azure.Core.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Azure.Identity.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Humanizer.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\System.CodeDom.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\System.Text.Json.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\Employee_Portal _WebApi.csproj.AssemblyReference.cache
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\Employee_Portal _WebApi.GeneratedMSBuildEditorConfig.editorconfig
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\Employee_Portal _WebApi.AssemblyInfoInputs.cache
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\Employee_Portal _WebApi.AssemblyInfo.cs
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\Employee_Portal _WebApi.csproj.CoreCompileInputs.cache
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\Employee_Portal _WebApi.MvcApplicationPartsAssemblyInfo.cs
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\Employee_Portal _WebApi.MvcApplicationPartsAssemblyInfo.cache
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\staticwebassets\msbuild.Employee_Portal _WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Employee_Portal _WebApi.props
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Employee_Portal _WebApi.props
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Employee_Portal _WebApi.props
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\staticwebassets.build.json
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\staticwebassets.development.json
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\scopedcss\bundle\Employee_Portal _WebApi.styles.css
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\Employee_Portal _WebApi.csproj.CopyComplete
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\Employee_Portal _WebApi.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\refint\Employee_Portal _WebApi.dll
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\Employee_Portal _WebApi.pdb
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\Employee_Portal _WebApi.genruntimeconfig.cache
+H:\courses\pro\backend\Projects\Employee_portal\WebApi\Employee_Portal _WebApi\Employee_Portal _WebApi\obj\Debug\net6.0\ref\Employee_Portal _WebApi.dll
